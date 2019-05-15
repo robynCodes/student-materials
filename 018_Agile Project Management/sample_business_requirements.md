@@ -1,46 +1,67 @@
-# Title
+# Exeter StudentXchange Web App
 
 ## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+The purpose of the Exeter StudentXchange app, is to serve as a social media platform specifically for students, that will allow students to connect with and contact other like-minded students for projects, ideas, and help with assignments. The StudentXchange app will allow students to post ideas or search for other student's ideas in public forums and will also include chat rooms and the option to share computer screens for live collaboration.
 
 ## Business Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+The primary business objectives are:
+1. Bring the minds of all students enrolled in a program, past and present, together across the globe, to collaborate ideas   with and network with remotely. 
+2. Bring value to client by being accessible only by Exeter programs and only with Exeter students and alumni. 
+3. Maintain importance by being the only social media application that connects students strictly for educational use and categorizes them according to their particuar educational program.
+4. Be a fluid and easy to use application that attracts students to use it daily.
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+Project is being initialized due to issues with students not being able to meet and collab together in person due to time constraints, other obligations (such as employment), distance from each other, transportation, etc. This project will allow students to access ideas and information on their own schedule.
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+This project should be thought of and constructed as a social media platform for educational use.
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
-
+Functional Requirements:
+1. Secure login portal
+2. User profiles and functions that allow customization of profile picture, program being studied, and location.
+3. Public forums to post ideas and questions for other students to read, respond to, and search for at a later date.
+4. Public chat rooms to collaborate ideas and ask questions in live public environment.
+5. Private chat rooms to collaborate ideas and ask questions with assigned team members in a live private environment.
+6. Capability to send private direct messages to an individual person.
+7. Allow access via mobile devices to allow collaboration on the go.
+8. Colorful and easy to use.
 
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+1. Dedicated development team (5 people)
+2. Dedicated UI/UX team (2 people)
+3. Team leader (1 person)
 
 ## Delivery schedule
 
-*It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
+1. One month timeframe for initial brainstorming and final plan of action with all requirements listed and outlined - project manager, team lead, dev team, and design team
+2. One month timeframe for beta project to be completed - dev team
+3. One week to test the beta project and document any thoughts and mistakes caught - project manager and team lead
+4. Two week bug cleanup and mistake rectification - dev team
+5. One month timeframe to add colors, themes, and ease of use functionality - dev team and design team
+6. One week to test revised project - project manager and team lead
+7. Two weeks of final maintenance before client views - dev team and design team
+8. Final verification before client views - team lead and project manager
 
 ## Other requirements
 
-*This section serves as a catch-all for any details that may not fit in other areas.  things like device or browser support, considerations for accessibility or inspiration for style.  Offer additional context here to ensure the project meets your vision*
+1. Application should be able to be viewed in Chrome, Safari, Firefox, and Explorer
+2. Application should have a mobile app accessiable via Apple and Android devices
 
 ## Assumptions
 
-*Oftentimes we are reliant on outside sources such as frameworks to be used, or services that our system will depend on.  In this section you should provide detail on any assumptions that you have made, such as the system being reliant on the availability of the Google Maps API.*
+N/A
 
 ## Limitations
 
-*Identify any limitations in terms of time, personnel, technical details, or other things that limit the scope, time, and cost of the project being discussed.*
+N/A
 
 ## Risks
 
-*Every project has inherent risks that may cause delay or even failure of a project.  You must identify this risks to show you know what they are, and also identify ways in which you would mitigate those risks.*
+1. Bugs or glitches that weren't caught in production
